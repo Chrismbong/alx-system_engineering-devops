@@ -1,2 +1,2 @@
 #!/bin/bash
- Long format
+ls -l ics#echo ls -l
